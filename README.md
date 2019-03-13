@@ -3,9 +3,9 @@
   severletContext, SeverContextConfig, Spring中ApplicationContext, 数据库连接池
 ## 1、每种单例写法的优、缺点总结：
   ### 1.饿汉式(如: HungrySingleton, HungrySingletonV2)
-          类加载的时候就立即初始化, 创建单例对象，无线程安全问题
-          没有synchronized(){...}同步代码块, 执行效率高
-          类加载的时候就初始化, 占资源, 浪费内存，可能出现创建实例对象, 但一直不用这个对象的情况
+      类加载的时候就立即初始化, 创建单例对象，无线程安全问题
+      没有synchronized(){...}同步代码块, 执行效率高
+      类加载的时候就初始化, 占资源, 浪费内存，可能出现创建实例对象, 但一直不用这个对象的情况
   ### 2.懒汉式(如: LazySimpleSingleton, DoubleCheckLazySingleton, LazyInnerClassSingleton)
       LazySimpleSingleton: 简单的懒汉式，存在线程安全问题
       DoubleCheckLazySingleton: 双重校验锁懒汉式, 解决了LazySimpleSingleton的线程安全问题, 但有synchronized(){...}同步代码块, 执行效率低
