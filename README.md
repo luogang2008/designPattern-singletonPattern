@@ -27,7 +27,7 @@
      EnumSingleton: 反编译可以看到在静态代码块中就给INSTANCE赋值, 是饿汉式单例的实现, 在JDK层面使得枚举式单例不受反射和序列化攻击,
      是effectiveJava中推荐单例写法
       
-      ContainerSingleton: 适用于创建实例非常多的情况, 便于管理
+     ContainerSingleton: 适用于创建实例非常多的情况, 便于管理
           
 
 ## 2、破坏单例模式的方式总结：
