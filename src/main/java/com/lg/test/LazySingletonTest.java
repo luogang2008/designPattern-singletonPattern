@@ -1,5 +1,6 @@
 package com.lg.test;
 
+import com.lg.LazySingletonPattern.LazyInnerClassSingleton;
 import com.lg.thread.ExectorThread;
 
 public class LazySingletonTest {
@@ -13,5 +14,7 @@ public class LazySingletonTest {
         thread1.start();
         thread2.start();
         System.out.println("-------------------end---------------");
+
+        LazyInnerClassSingleton instace = LazyInnerClassSingleton.getInstace();
     }
 }

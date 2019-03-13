@@ -14,7 +14,7 @@ public class LazyInnerClassSingleton {
     }
 
 
-    private static final LazyInnerClassSingleton getInstace(){
+    public static final LazyInnerClassSingleton getInstace(){
         return LazyHolder.lazy;
     }
 
