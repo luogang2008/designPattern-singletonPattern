@@ -37,8 +37,8 @@
       <file leaf-file-name="LazyInnerClassSingleton.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/lg/LazySingletonPattern/LazyInnerClassSingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            <state relative-caret-position="288">
+              <caret line="12" column="89" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="89" />
               <folding>
                 <element signature="e#438#439#0" expanded="true" />
                 <element signature="e#476#477#0" expanded="true" />
@@ -111,15 +111,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExectorThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/lg/thread/ExectorThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -232,80 +223,6 @@
             <path>
               <item name="maven-singleton" type="b2602c69:ProjectViewProjectNode" />
               <item name="maven-singleton" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maven-singleton" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maven-singleton" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maven-singleton" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maven-singleton" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maven-singleton" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maven-singleton" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lg" type="462c0819:PsiDirectoryNode" />
-              <item name="hungrySingletonPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maven-singleton" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maven-singleton" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lg" type="462c0819:PsiDirectoryNode" />
-              <item name="LazySingletonPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maven-singleton" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maven-singleton" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lg" type="462c0819:PsiDirectoryNode" />
-              <item name="RegisterSingletonPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maven-singleton" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maven-singleton" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lg" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maven-singleton" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maven-singleton" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lg" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="maven-singleton" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maven-singleton" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -337,6 +254,11 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="lg" type="462c0819:PsiDirectoryNode" />
               <item name="RegisterSingletonPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maven-singleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maven-singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="UML" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -459,12 +381,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552360600665</updated>
       <workItem from="1552360603934" duration="4000000" />
-      <workItem from="1552451418910" duration="7491000" />
+      <workItem from="1552451418910" duration="7888000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11491000" />
+    <option name="totallyTimeSpent" value="11888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -675,10 +597,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/UML/静态内部类单例时序图.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/lg/LazySingletonPattern/LazyInnerClassSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state relative-caret-position="288">
+          <caret line="12" column="89" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="89" />
           <folding>
             <element signature="e#438#439#0" expanded="true" />
             <element signature="e#476#477#0" expanded="true" />
